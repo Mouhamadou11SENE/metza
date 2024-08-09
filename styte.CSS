@@ -1,0 +1,12 @@
+
+.logo{
+    background-image: url(aw.jpg);
+}
+.headerr{
+    display: flex;
+}.nav{
+    float: left;
+}
+header{
+    display: flex;
+}
